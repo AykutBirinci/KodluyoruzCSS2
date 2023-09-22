@@ -1,0 +1,54 @@
+.image {
+    height: fit-content;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.s-but {
+    height: auto;
+    width: auto;
+    text-align: center;
+    background-color: rgb(218, 218, 218);
+}
+
+.s-but2 {
+    margin: 0;
+}
+
+.links{
+    text-align: center; 
+}
+
+.links1 {
+    height: 72px;
+    width: 40%;
+    padding-top: 20px;
+    padding-bottom: 0;
+    background-color: rgb(121, 200, 202);
+    float: left;
+}
+
+.links2 {
+    height: 72px;
+    width: 15%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(103, 170, 172);
+    float: left;
+}
+
+.links3 {
+    height: 72px;
+    width: 45%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(88, 147, 148);
+    float: left;
+}
+
+.footer {
+    text-align: center;
+}
+
+
